@@ -1,0 +1,54 @@
+00354176 00 s 01 revised 0 001 & 00354090 a 0000 | altered or revised by rephrasing or by adding or deleting material; "the amended bill passed easily"  
+00354330 00 a 01 unamended 0 002 ;c 06535222 n 0000 ! 00354090 a 0101 | (of legislation) not amended  
+00354433 00 a 01 changed 0 005 ! 00355258 a 0101 & 00354692 a 0000 & 00354833 a 0000 & 00354934 a 0000 & 00355083 a 0000 | made or become different in nature or form; "changed attitudes"; "changed styles of dress"; "a greatly changed country after the war"  
+00354692 00 s 03 denatured 0 denaturized 0 denaturised 0 001 & 00354433 a 0000 | changed in nature or natural quality; "denatured alcohol"  
+00354833 00 s 01 exchanged 0 001 & 00354433 a 0000 | changed for (replaced by) something different  
+00354934 00 s 01 transformed 0 001 & 00354433 a 0000 | given a completely different form or appearance; "shocked to see the transformed landscape"  
+00355083 00 s 01 varied 0 002 & 00354433 a 0000 + 04735556 n 0101 | broken away from sameness or identity or duplication; "her quickly varied answers indicated uncertainty"  
+00355258 00 a 01 unchanged 0 004 ^ 02507968 a 0000 ! 00354433 a 0101 & 00355453 a 0000 & 00355611 a 0000 | not made or become different; "the causes that produced them have remained unchanged"  
+00355453 00 s 01 idempotent 0 002 & 00355258 a 0000 ;c 06000644 n 0000 | unchanged in value following multiplication by itself; "this matrix is idempotent"  
+00355611 00 s 01 same(p) 0 002 & 00355258 a 0000 + 04740326 n 0103 | unchanged in character or nature; "the village stayed the same"; "his attitude is the same as ever"  
+00355782 00 a 01 isometric 0 002 ;c 06080522 n 0000 ! 00355950 a 0101 | of or involving muscular contraction in which tension increases while length remains constant  
+00355950 00 a 01 isotonic 1 002 ;c 06080522 n 0000 ! 00355782 a 0101 | of or involving muscular contraction in which tension is constant while length changes  
+00356110 00 a 02 ionized 0 ionised 0 001 ! 00356211 a 0101 | converted totally or partly into ions  
+00356211 00 a 05 nonionized 0 nonionised 0 unionized 0 unionised 0 nonionic 0 001 ! 00356110 a 0101 | not converted into ions  
+00356339 00 a 02 mutable 0 changeable 4 005 + 04733640 n 0202 + 04733640 n 0201 + 04741311 n 0101 + 04741311 n 0102 ! 00356648 a 0101 | capable of or tending to change in form or quality or nature; "a mutable substance"; "the mutable ways of fortune"; "mutable weather patterns"; "a mutable foreign policy"  
+00049003 04 n 05 entrance 0 entering 0 entry 0 ingress 0 incoming 0 012 @ 00048374 n 0000 + 02016523 v 0301 + 02016523 v 0201 + 01720660 v 0201 + 02016523 v 0101 ~ 00049344 n 0000 ~ 00049530 n 0000 ~ 00049636 n 0000 ~ 00049789 n 0000 ~ 00050037 n 0000 ~ 00051525 n 0000 ~ 01248191 n 0000 | the act of entering; "she made a grand entrance"  
+00049344 04 n 01 incursion 1 001 @ 00049003 n 0000 | the act of entering some territory or domain (often in large numbers); "the incursion of television into the American living room"  
+00049530 04 n 01 intrusion 2 001 @ 00049003 n 0000 | entrance by force or without permission or welcome  
+00049636 04 n 01 irruption 0 002 @ 00049003 n 0000 + 02018524 v 0102 | a sudden violent entrance; a bursting in; "the recent irruption of bad manners"  
+00049789 04 n 01 entree 0 001 @ 00049003 n 0000 | the act of entering; "she made a graceful entree into the ballroom"  
+00049909 04 n 01 entail 0 001 @ 00191142 n 0000 | the act of entailing property; the creation of a fee tail from a fee simple  
+00070641 04 n 02 motivation 0 motivating 0 004 @ 00030358 n 0000 + 00324195 a 0203 + 02766328 a 0101 + 01649999 v 0101 | the act of motivating; providing incentive  
+00070807 04 n 01 partial_breach 0 001 @ 00069173 n 0000 | a breach that does not destroy the value of the contract but can give rise to a claim for damages  
+00070965 04 n 03 mistake 0 error 2 fault 0 018 @ 00066216 n 0000 + 00023854 a 0301 + 00842538 v 0302 + 00617748 v 0201 + 00617748 v 0102 ~ 00072261 n 0000 ~ 00072473 n 0000 ~ 00072691 n 0000 ~ 00072808 n 0000 ~ 00073713 n 0000 ~ 00073828 n 0000 ~ 00074324 n 0000 ~ 00074524 n 0000 ~ 00074624 n 0000 ~ 00074790 n 0000 ~ 00075618 n 0000 ~ 01248075 n 0000 ~ 01259211 n 0000 | a wrong action attributable to bad judgment or ignorance or inattention; "he made a bad mistake"; "she was quick to point out my errors"; "I could understand his English in spite of his grammatical faults"  
+00071546 04 n 01 double_fault 0 002 @ 00568813 n 0000 ;c 00482298 n 0000 | (tennis) two successive faults in serving resulting in the loss of the point  
+00071700 04 n 01 footfault 0 002 @ 00568813 n 0000 #p 00482298 n 0000 | a fault that occurs when the server in tennis fails to keep both feet behind the baseline  
+00071864 04 n 01 bobble 0 002 @ 00074790 n 0000 ;c 00471613 n 0000 | the momentary juggling of a batted or thrown baseball; "the second baseman made a bobble but still had time to throw the runner out"  
+00072068 04 n 02 error 3 misplay 0 003 @ 00066636 n 0000 ;c 00471613 n 0000 + 01075044 v 0201 | (baseball) a failure of a defensive player to make an out when normal play would have sufficed  
+00072261 04 n 05 blot 0 smear 0 smirch 0 spot 0 stain 0 003 @ 00070965 n 0000 + 01537409 v 0502 + 00846509 v 0303 | an act that brings discredit to the person who does it; "he made a huge blot on his copybook"  
+00072473 04 n 02 confusion 0 mix-up 0 002 @ 00070965 n 0000 + 00619610 v 0101 | a mistake that results from taking one thing to be another; "he changed his name in order to avoid confusion with the notorious outlaw"  
+00415931 00 s 01 restricted 0 001 & 00415228 a 0000 | the lowest level of official classification for documents  
+00416045 00 s 01 secret 0 001 & 00415228 a 0000 | the next to highest level of official classification for documents  
+00416164 00 s 01 sensitive 0 001 & 00415228 a 0000 | of or pertaining to classified information or matters affecting national security  
+00416301 00 s 01 top-secret 0 001 & 00415228 a 0000 | the highest official level of classification of documents  
+00416415 00 a 01 unclassified 2 003 ! 00415228 a 0101 & 00416550 a 0000 & 00416651 a 0000 | not subject to a security classification  
+00416550 00 s 01 declassified 0 001 & 00416415 a 0000 | having had security classification removed  
+00416651 00 s 02 nonsensitive 0 unrestricted 0 001 & 00416415 a 0000 | never having had security classification  
+00416765 00 a 01 analyzed 0 001 ! 00417032 a 0101 | examined carefully and methodically; broken down for consideration of constituent parts; "the analyzed data indicated surprising trends"; "a carefully analyzed poem can be like a dead butterfly pinned to a board"  
+00045639 29 v 03 dress 6 groom 3 curry 0 003 $ 00038849 v 0000 @ 00293141 v 0000 + 10644301 n 0203 01 + 08 00 | give a neat appearance to; "groom the dogs"; "dress the horses"  
+00045817 29 v 07 reduce 0 melt_off 0 lose_weight 0 slim 0 slenderize 0 thin 0 slim_down 0 004 @ 00146138 v 0000 + 13547513 n 0101 ! 00046151 v 0101 ~ 00046022 v 0000 02 + 02 00 + 08 02 | take off weight  
+00046022 29 v 01 sweat_off 0 001 @ 00045817 v 0000 01 + 08 00 | lose weight by sweating; "I sweated off 3 pounds in the sauna"  
+00046151 29 v 02 gain 0 put_on 3 005 @ 00146138 v 0000 + 10117739 n 0101 ! 00045817 v 0101 ~ 00046382 v 0000 ~ 00107110 v 0000 02 + 02 00 + 08 01 | increase (one's body weight); "She gained 20 pounds when she stopped exercising"  
+00046382 29 v 03 round 0 flesh_out 0 fill_out 0 001 @ 00046151 v 0000 01 + 02 00 | become round, plump, or shapely; "The young woman is fleshing out"  
+00046534 29 v 02 dress 0 get_dressed 0 019 $ 00047945 v 0000 $ 00044797 v 0000 $ 00043683 v 0000 @ 00109660 v 0000 + 02728440 n 0103 + 10033082 n 0101 + 00828237 n 0101 ! 00049900 v 0101 ^ 00044149 v 0102 ^ 00045346 v 0101 ~ 00044149 v 0000 ~ 00044797 v 0000 ~ 00045346 v 0000 ~ 00045532 v 0000 ~ 00047032 v 0000 ~ 00050652 v 0000 ~ 00051637 v 0000 ~ 00051942 v 0000 ~ 00169458 v 0000 01 + 02 00 | put on clothes; "we had to dress quickly"; "dress the patient"; "Can the child dress by herself?"  
+00047032 29 v 01 bundle_up 0 001 @ 00046534 v 0000 01 + 09 00 | dress warmly; "Mother bundled up the children for the long way to school"  
+00047172 29 v 01 hat 0 003 @ 00050652 v 0000 + 03497657 n 0101 ~ 00047511 v 0000 01 + 02 00 | put on or wear a hat; "He was unsuitably hatted"  
+00047317 29 v 02 try_on 0 try 0 002 @ 00050652 v 0000 + 00795008 n 0102 01 + 08 00 | put on a garment in order to see whether it fits and looks nice; "Try on this sweater to see how it looks"  
+00120217 30 v 01 revert d 001 @ 00119873 v 0000 01 + 01 00 | undergo reversion, as in a mutation  
+00120316 30 v 02 make 0 get 1 004 @ 00126264 v 0000 ~ 00120675 v 0000 ~ 00120796 v 0000 ~ 02729414 v 0000 02 + 05 00 + 25 00 | give certain properties to something; "get someone mad"; "She made us look silly"; "He made a fool of himself at the meeting"; "Don't make this into a big deal"; "This invention will make you a millionaire"; "Make yourself clear"  
+00120675 30 v 01 render 0 001 @ 00120316 v 0000 02 + 05 00 + 25 00 | cause to become; "The shot rendered her immobile"  
+00120796 30 v 03 get 2 let 1 have 0 001 @ 00120316 v 0000 03 + 20 00 + 21 00 + 24 00 | cause to move; cause to be in a certain position or condition; "He got his squad on the ball"; "This let me in for a big surprise"; "He got a girl into trouble"  
+00121046 30 v 02 have 1 experience 0 004 @ 00109660 v 0000 + 07285403 n 0201 + 05984584 n 0201 ~ 02739480 v 0000 01 + 11 00 | undergo; "The stocks had a fast run-up"  
+00121214 30 v 02 alternate 0 take_turns 0 003 @ 02367363 v 0000 + 01010684 n 0101 ~ 00121387 v 0000 01 + 02 00 | do something in turns; "We take turns on the night shift"  
+00121387 30 v 01 spell 0 001 @ 00121214 v 0000 01 + 02 00 | take turns working; "the workers spell every four hours"   
